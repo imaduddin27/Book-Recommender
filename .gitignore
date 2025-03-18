@@ -1,3 +1,8 @@
+# Exclude CSV and text files
+books_with_categories.csv
+books_with_emotions.csv
+tagged_description.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
